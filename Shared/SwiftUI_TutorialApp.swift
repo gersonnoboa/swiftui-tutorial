@@ -13,7 +13,7 @@ struct SwiftUI_TutorialApp: App {
 
     var body: some Scene {
         WindowGroup {
-            LandmarkList()
+            ContentView()
                 .environmentObject(modelData)
         }
     }
