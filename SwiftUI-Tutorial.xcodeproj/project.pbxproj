@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		310845B2260BCF3A00C87821 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 310845B1260BCF3A00C87821 /* ProfileEditor.swift */; };
 		3109E1912601CBDB001D39A3 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3109E1902601CBDB001D39A3 /* CategoryHome.swift */; };
 		3109E19E2601CED5001D39A3 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3109E19D2601CED5001D39A3 /* CategoryRow.swift */; };
 		3109E1A22601D27A001D39A3 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3109E1A12601D27A001D39A3 /* CategoryItem.swift */; };
@@ -51,6 +52,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		310845B1260BCF3A00C87821 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		3109E1902601CBDB001D39A3 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		3109E19D2601CED5001D39A3 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		3109E1A12601D27A001D39A3 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 			children = (
 				318E79932607CE6200FF76F6 /* ProfileHost.swift */,
 				318E79972607CFA000FF76F6 /* ProfileSummary.swift */,
+				310845B1260BCF3A00C87821 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				31E818AF25DA41430074BE39 /* BadgeBackground.swift in Sources */,
 				31C08C3D25A43FBE00339B84 /* CircleImage.swift in Sources */,
 				31F4753B25F5A4AA00EE9171 /* HikeDetail.swift in Sources */,
+				310845B2260BCF3A00C87821 /* ProfileEditor.swift in Sources */,
 				31AD579725AEBE06006952E0 /* Landmark.swift in Sources */,
 				31F4753925F5A4AA00EE9171 /* GraphCapsule.swift in Sources */,
 				3109E1A82601D7FA001D39A3 /* ContentView.swift in Sources */,
