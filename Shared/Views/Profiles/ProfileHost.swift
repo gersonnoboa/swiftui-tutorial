@@ -25,7 +25,7 @@ struct ProfileHost: View {
                 EditButton()
             }
 
-            if editMode?.wrappedValue == .inactive {
+            if editMode? .wrappedValue == .inactive {
                 ProfileSummary(profile: modelData.profile)
             } else {
                 ProfileEditor(profile: $draftProfile)
